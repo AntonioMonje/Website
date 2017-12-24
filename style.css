@@ -105,7 +105,7 @@ div li {
   padding: 8px 15px;
   font-family: sans-serif;
   letter-spacing: 2px;
-  border: 1px solid #000;
+  border: 1px solid #fff;
 }
 .menu li a:hover{
   background: #000;
@@ -151,7 +151,7 @@ div li {
 }
 
 .btn1:hover{
-  background: #fff;
+  background: #000;
   color: #5dc21e;
   transition: .4s;
 }
@@ -173,7 +173,7 @@ div li {
 img{
   height: 350px;
   width: 250px;
-  position: absolute;
+  position: relative;
   right: 0;
   bottom: 0;
   overflow: hidden;
