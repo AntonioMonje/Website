@@ -88,7 +88,9 @@ height: 1000px;
 }
 .pic2 {
   background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('pic3.jpg');
-height: 1000px;
+  height: 100%;
+  min-height: 1000px;
+
 }
 
 
